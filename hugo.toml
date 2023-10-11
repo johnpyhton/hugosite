@@ -1,4 +1,4 @@
-baseURL = "https://johnpyhton.github.co/"
+baseURL = "https://johnpyhton.github.io/"
 title = "John Pyhton Journey"
 paginate = 5
 theme = "PaperMod"
